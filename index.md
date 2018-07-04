@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nimo's CV
+title: Sky's Resume
 pdf: true
 ---
 # Sky __Jin__
@@ -60,6 +60,3 @@ Beginner in Bootstrap
 Intermediate in SQLServer, SublimeText, Visual Studio  
 Beginner in Git, MySQL, Android Studio, WeChat Mini-Program
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
