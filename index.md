@@ -21,13 +21,13 @@ Looking for a Front-end Web Developer Position.
 
 ## Education
 
-### __Zhejiang Chinese Medical University__ `Expected Graduation: 09/2019`
+### __Zhejiang Chinese Medical University__ `09/2015 - Present`
 ```
 Hangzhou
 ```
 - B.S. in Computer Science  
 
-### __Providence University__ `Completion: 01/2018`
+### __Providence University__ `09/2017 - 01/2018`
 ```
 Taiwan
 ```
