@@ -7,9 +7,9 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-telephone" style="margin-left:1em"></i>
-<p style="margin-left:0.5em">187-6816-3941</p>
+<span style="margin-left:0.5em">187-6816-3941</span>
 <i class="fi-home" style="margin-left:1em"></i>
-<p style="margin-left:0.5em">Hangzhou</p>
+<span style="margin-left:0.5em">Hangzhou</span>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="SkyJin@outlook.com" style="margin-left:0.5em">SkyJin@outlook.com</a>
 <i class="fi-social-github" style="margin-left:1em"></i>
