@@ -6,10 +6,14 @@ pdf: true
 # Sky __Jin__
 
 <div id="webaddress">
+<i class="fi-telephone" style="margin-left:1em"></i>
+<p style="margin-left:0.5em">187-6816-3941</p>
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<p style="margin-left:0.5em">Hangzhou</p>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="SkyJin@outlook.com" style="margin-left:0.5em">SkyJin@outlook.com</a>
+<i class="fi-social-github" style="margin-left:1em"></i>
+<a href="https://github.com/SkyJinXX" style="margin-left:0.5em">https://github.com/SkyJinXX</a>
 </div>
 
 ## Objective 
@@ -43,16 +47,16 @@ Completed functions of editing patients' information and printing prescription i
 
 ## Skills & Expertise
 
-### Programming Languages
+### __Programming Languages__
 Intermediate in JavaScript, Java, C#  
 Beginner in Python  
-### Markup/Templating Languages  
+### __Markup/Templating Languages__  
 Intermediate in CSS, HTML, Markdown  
 Beginner in JSP  
-### Frameworks & APIs  
+### __Frameworks & APIs__  
 Intermediate in JQuery, .NET, BotFramework  
 Beginner in Bootstrap  
-### Software & Tools
+### __Software & Tools__
 Intermediate in SQLServer, SublimeText, Visual Studio  
 Beginner in Git, MySQL, Android Studio, WeChat Mini-Program
 
