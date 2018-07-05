@@ -151,7 +151,7 @@ li {
 }
 
 #webaddress a:visited {
-	color: #FF0000;
+	color: #0000FF;
 }
 
 @media print {
