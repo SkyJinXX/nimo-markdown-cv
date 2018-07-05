@@ -149,6 +149,10 @@ li {
 	font-size: 80%;
 }
 
+#webaddress a:visited {
+	color: #FF0000;
+}
+
 #webaddress a {
 	text-decoration: none;
 }

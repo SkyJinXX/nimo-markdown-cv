@@ -150,6 +150,10 @@ li {
 	text-decoration: none;
 }
 
+#webaddress a:visited {
+	color: #FF0000;
+}
+
 @media print {
     p {page-break-inside: avoid;}
 	h2 {page-break-after: avoid;}
